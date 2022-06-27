@@ -21,5 +21,4 @@ He actually advised me to take on many projects, that i shouldn't be moving fast
 
 
 
-LIVE SITE:
-gamajunior-nft-card.netlify.app
+LIVE SITE: [gamajunior-nft-card.netlify.app](https://gamajunior-nft-card.netlify.app/)
